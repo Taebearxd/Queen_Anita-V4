@@ -1,13 +1,13 @@
 global.owner = [
-  "2347043759577",
+  "917439317360",
   ""
 ]
 global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.ownername = "David Cyril"
-global.packname = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.author = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
-global.channelname = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
-global.channeljid = "120363315231436175@newsletter"
+global.ownername = "⎯⎯ּ︭   🧸̼᪲ 𝕹̸𑄜᳟ὶ𝗋ֺ  ❜❜ ᪶"
+global.packname = "⎯⎯ּ︭   🧸̼᪲ 𝕹̸𑄜᳟ὶ𝗋ֺ  ❜❜ ᪶"
+global.author = "𝐃𝐨𝐧'𝐭 𝐜𝐨𝐩𝐲 𝐦𝐚𝐡 𝐟𝐥𝐨𝐰 ‼️"
+global.channelname = "⎯⎯ּ︭   🧸̼᪲ 𝕹̸𑄜᳟ὶ𝗋ֺ  ❜❜ ᪶"
+global.channeljid = ""
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
 global.autoViewStatus = true;   // Set to true to automatically read statuses
@@ -41,9 +41,9 @@ global.ANTIDELETE = false;
 
 global.unavailable = true;     
 //to show your real presence  
-global.available = false;   
+global.available = true;   
 // to show always online  
-global.autoreadmessages = false;   
+global.autoreadmessages = true;   
 ///To always read messages
 global.chatbot = false;
 global.autoreact = false;
